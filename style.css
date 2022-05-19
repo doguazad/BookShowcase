@@ -1,0 +1,23 @@
+#div_1{
+    border: 2px solid rgb(129, 129, 129);
+    margin-top: 15px;
+}
+#inputEmail3{
+    width: 335px;
+    
+}
+#inputPassword3{
+    width: 335px;
+}
+
+#exampleInputEmail11::-webkit-inner-spin-button,
+#exampleInputEmail11::-webkit-outer-spin-button {
+  -webkit-appearance: none;   margin: 0;
+}
+@media (max-width: 800px) {
+  
+    #urunresim_1{
+    width: max-content;
+    }
+    
+  }
